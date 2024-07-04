@@ -36,15 +36,7 @@ A user-friendly application for converting text to binary and vice versa. This r
     ```bash
     pip install -r requirements.txt
     ```
-
-    The `requirements.txt` should contain:
-
-    ```
-    pyfiglet
-    pyperclip
-    colorama
-    inquirer
-    ```
+ 
 
 ## Usage
 
