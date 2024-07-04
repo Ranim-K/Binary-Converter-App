@@ -1,9 +1,10 @@
 # Binary Converter App
 
+A user-friendly application for converting text to binary and vice versa. This repository includes two versions of the app: one with a graphical user interface (GUI) built with Tkinter and one without a GUI, which runs in the command line.
+
 ![Binary Converter](https://t4.ftcdn.net/jpg/02/38/56/37/360_F_238563715_TT246ABsfPc7OMkIASI5wTOYiwwlf8Yz.jpg)
 
 
-A user-friendly application for converting text to binary and vice versa. This repository includes two versions of the app: one with a graphical user interface (GUI) built with Tkinter and one without a GUI, which runs in the command line.
 
 ## Features
 
